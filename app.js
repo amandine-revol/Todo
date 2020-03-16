@@ -1,6 +1,3 @@
-
-//https://data-flair.training/blogs/javascript-project-to-do-list/
-
 //Add new iteam to list
 function newElement(){
     var valueInput = document.getElementById("myInput");
